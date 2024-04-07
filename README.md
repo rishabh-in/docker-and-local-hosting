@@ -1,5 +1,3 @@
-Certainly! Below are the Markdown files for both sections:
-
 ### Dockerizing Files Insight App Documentation
 
 #### Introduction to Docker and Docker Compose
